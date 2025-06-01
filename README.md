@@ -17,7 +17,7 @@
 
 ---
 
-## ✨ UI & Styling Highlights
+##  UI & Styling Highlights
 
 - **CSS transitions** for hover effects on course cards and titles
 - **Custom responsive layout**: adjusts to tablets and phones
