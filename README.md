@@ -2,7 +2,7 @@
 
 **My Courses** is a responsive React application built with Vite that showcases a variety of martial arts courses. Each course is tailored for specific audiences—girls, boys, men, and women—and includes visual, descriptive, and pricing information, presented in a clean and engaging UI.
 
-👉 You can view the live demo of this project [here](https://nursaadet.github.io/my-courses)
+👉 You can view the live demo of this project [here](https://mycoursesapp.netlify.app/)
 
 ---
 
